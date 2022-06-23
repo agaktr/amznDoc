@@ -2,7 +2,7 @@
 
 By clicking on `Settings` on the right of the window, you can adjust various table settings for better UI experience.
 
-[https://www.loom.com/share/91a8247086a74d0aa43b8541cf9d65e0](https://www.loom.com/share/91a8247086a74d0aa43b8541cf9d65e0)
+https://www.loom.com/share/91a8247086a74d0aa43b8541cf9d65e0
 
 # STOCK STATUS REPORT
 
@@ -57,7 +57,7 @@ After saving, you will be redirected to the order screen where you can print the
 https://www.loom.com/share/d7f55473b2a2447f858a51edbb714d5c
 
 # ORDERS
-### All orders
+#### All orders
 
 By clicking `show` button on any order, you will be redirected to the order screen where you can print the supplier orders.
 
@@ -70,3 +70,30 @@ By selecting `Report status` and clicking `Save` button, you can change the orde
 By clining on any `Print` button on the Cards/Boxes/China Supplier/India Supplier you can directly print the order and send it to the corresponding supplier.
 
 https://www.loom.com/share/db61684a88654dd7bca5ad68b5b026a1
+
+# Shipments
+## New Shipment (Step 6)
+
+After the shipment has arrived from the manufacturers, upload the SKU/quantity `.xlsx` file by clicking the `Save` button.
+
+This will create a new Shipment object in the database and it will redirect you to the shipment interface.
+
+https://www.loom.com/share/d310c49c60e84b3dba7573b33af3708f
+
+#### All Shipments
+
+By clicking `show` button on any shipment, you will be redirected to the shipment interface.
+
+<img src="https://user-images.githubusercontent.com/45101051/175348176-ca223c13-68e3-4a8a-8d4e-f60e1daf6281.png" alt="image" width="400">
+
+## Shipment (Step 7)
+
+In this panel you observe the shipped items and the "wants" of each marketplace.
+
+By clicking `Calculate shipments` button and clicking `Save` button, shipped items will be distributed to all warehouses based on their demand so they all last the same amount of time.
+
+With red color are the items that currently they need more items than we bought and with green the items that require less than we bought.
+
+By clicking the `Download XLSX` a `.xlsx` file with the table will be exported that you can manually edit so you can create a FBA Workflow with it.
+
+https://www.loom.com/share/f2d90aad98e44d3bb267e8ebdf078993
