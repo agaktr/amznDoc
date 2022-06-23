@@ -125,4 +125,22 @@ In this panel you observe the distributed items on each warehouse.
 
 By clicking the `Download Manifest` a `.zip` file will be downloaded containing all countries manifest file which can be uploaded directly to amazon to start the FBA process.
 
+[manifests-files.zip](https://github.com/agaktr/amznDoc/files/8969175/manifests-files.zip)
+
 https://www.loom.com/share/8ae9ecef52d249b487ccd99e62949aed
+
+# FBA Distribution (Step 10)
+
+After uploading the manifest file to amazon, a distribution file will be provided from seller central.
+
+[2022-06-22_12-22-24_pack-group-1_f21aa3f8-52eb-4d95-a5ff-0430d47f2cf4.xlsx](https://github.com/agaktr/amznDoc/files/8969208/2022-06-22_12-22-24_pack-group-1_f21aa3f8-52eb-4d95-a5ff-0430d47f2cf4.xlsx)
+
+Select the type of item distribution on boxes (Liner/Max Same Items).
+
+Then select the file and upload it by clicking the `Upload` button.
+
+The edited file will automatically be downloaded with the items distributed.
+
+[2022-06-22_13-13-58_pack-group-1_6e6f913d-e9f8-4f58-88cc-473991b24824-edited.xlsx](https://github.com/agaktr/amznDoc/files/8969215/2022-06-22_13-13-58_pack-group-1_6e6f913d-e9f8-4f58-88cc-473991b24824-edited.xlsx)
+
+https://www.loom.com/share/05697cb9d0e3481fbde4a9c073910d9f
