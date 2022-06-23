@@ -2,7 +2,7 @@
 
 By clicking on `Settings` on the right of the window, you can adjust various table settings for better UI experience.
 
-https://www.loom.com/share/91a8247086a74d0aa43b8541cf9d65e0
+[https://www.loom.com/share/91a8247086a74d0aa43b8541cf9d65e0](https://www.loom.com/share/91a8247086a74d0aa43b8541cf9d65e0)
 
 # STOCK STATUS REPORT
 
