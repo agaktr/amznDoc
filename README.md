@@ -10,6 +10,8 @@ On this screen, you can view the current stock of both active and inactive produ
 
 By clicking the `Export .xlsx` a `.zip` file will be downloaded containing both tables as `.xlsx` files.
 
+[stock-status-1656001878830.zip](https://github.com/agaktr/amznDoc/files/8969076/stock-status-1656001878830.zip)
+
 https://www.loom.com/share/b4883a9398c2481ab31580b922d3ea02
 
 # STOCK ENDURANCE 
@@ -54,6 +56,8 @@ When finished, click on "Save report" to add the order entry on the database.
 
 After saving, you will be redirected to the order screen where you can print the supplier orders.
 
+[order-report.xlsx](https://github.com/agaktr/amznDoc/files/8969078/order-report.xlsx)
+
 https://www.loom.com/share/d7f55473b2a2447f858a51edbb714d5c
 
 # ORDERS
@@ -96,4 +100,29 @@ With red color are the items that currently they need more items than we bought 
 
 By clicking the `Download XLSX` a `.xlsx` file with the table will be exported that you can manually edit so you can create a FBA Workflow with it.
 
+[shipment-report.xlsx](https://github.com/agaktr/amznDoc/files/8969083/shipment-report.xlsx)
+
 https://www.loom.com/share/f2d90aad98e44d3bb267e8ebdf078993
+
+# FBA Workflows
+## New Workflow (Step 8)
+
+After editing the shipment file, upload it by clicking the `Save` button.
+
+This will create a new FBA Workflow object in the database and it will redirect you to the workflow interface where you can start the distribution procedure.
+
+https://www.loom.com/share/aec393f936de4b6c9a0ab4459ff9929f
+
+#### All Workflows
+
+By clicking `show` button on any workflow, you will be redirected to the workflow interface.
+
+<img src="https://user-images.githubusercontent.com/45101051/175351304-dfe900dd-6999-438d-ba60-296c0e0c1f6a.png" alt="image" width="400">
+
+## Workflow (Step 9)
+
+In this panel you observe the distributed items on each warehouse.
+
+By clicking the `Download Manifest` a `.zip` file will be downloaded containing all countries manifest file which can be uploaded directly to amazon to start the FBA process.
+
+https://www.loom.com/share/8ae9ecef52d249b487ccd99e62949aed
